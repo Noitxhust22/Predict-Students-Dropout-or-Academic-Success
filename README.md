@@ -14,6 +14,6 @@
 
 - 結果を評価します。
 
-レポートのリンク:https://docs.google.com/document/d/1fuaYvBBV7iOZEPgv-gtKCCfOv1R3_Iii/edit
+レポートのリンク:https://docs.google.com/document/d/16kuuyfs0cEJwxzm16emEyqXahEQVGpoX/edit?usp=sharing&ouid=115432958630865886509&rtpof=true&sd=true
 
 ![image](https://github.com/Noitxhust22/Predict-Students-Dropout-or-Academic-Success/assets/90817967/4338a182-fc99-4ca5-a1cd-0fd5285a7c42)
